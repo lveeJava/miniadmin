@@ -19,4 +19,4 @@
 * [Mybatis分页插件PageHelper](https://github.com/pagehelper/Mybatis-PageHelper)
 
 #### 前端源码
-* [miniView](https://gitee.com/hsfeng/miniView)
+* [miniView](https://gitee.com/hsfeng/miniview)
